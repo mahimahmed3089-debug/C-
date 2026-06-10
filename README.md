@@ -1,2 +1,2 @@
 # C++
-Payment screen of an supershop
+Payment screen of a supershop
